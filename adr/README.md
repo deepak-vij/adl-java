@@ -13,7 +13,7 @@ If you need to regenerate this readme without creating a new ADR, please use \`a
  - [00001-Support-an-assets-folder.md](./00001-Support-an-assets-folder.md)
  - [00002-Migrate-to-Zig.md](./00002-Migrate-to-Zig.md)
  - [00003-Support-Templates-Folder.md](./00003-Support-Templates-Folder.md)
- - [00004-My First ADR.md](./00004-My First ADR.md)
+ - [00004-My Second ADR.md](./00004-My Second ADR.md)
 
 
-Last generated 2025-08-08T01:43:44.549305868
+Last generated 2025-08-08T16:29:00.421443642

@@ -1,4 +1,4 @@
-# {{name}}
+# 00004 - My Second ADR
 
 ## Abstract
 
